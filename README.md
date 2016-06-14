@@ -1,6 +1,6 @@
 # AutoCaptcha for Bank Payment Page
 
-It is an chrome extension to fill the captcha at bank payment page
+It is a chrome extension to fill the captcha at bank payment page
 
 Download source code in zip,extract it and read below instructions to install manually. 
 
